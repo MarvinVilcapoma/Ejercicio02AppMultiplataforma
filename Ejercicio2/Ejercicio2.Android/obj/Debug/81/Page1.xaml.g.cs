@@ -13,7 +13,7 @@
 namespace Ejercicio2 {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("c:\\users\\marvi\\source\\repos\\Ejercicio2\\Ejercicio2\\Ejercicio2\\Page1.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\marvi\\source\\repos\\Ejercicio2\\Ejercicio2\\Ejercicio2\\Page1.xaml")]
     public partial class Page1 : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

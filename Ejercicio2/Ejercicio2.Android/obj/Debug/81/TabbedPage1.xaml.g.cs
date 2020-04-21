@@ -13,7 +13,7 @@
 namespace Ejercicio2 {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("c:\\users\\marvi\\source\\repos\\Ejercicio2\\Ejercicio2\\Ejercicio2\\TabbedPage1.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\marvi\\source\\repos\\Ejercicio2\\Ejercicio2\\Ejercicio2\\TabbedPage1.xaml")]
     public partial class TabbedPage1 : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

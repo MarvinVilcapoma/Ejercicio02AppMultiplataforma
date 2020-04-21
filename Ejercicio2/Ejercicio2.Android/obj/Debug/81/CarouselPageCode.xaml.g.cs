@@ -13,7 +13,7 @@
 namespace Ejercicio2 {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("c:\\users\\marvi\\source\\repos\\Ejercicio2\\Ejercicio2\\Ejercicio2\\CarouselPageCode.xam" +
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\marvi\\source\\repos\\Ejercicio2\\Ejercicio2\\Ejercicio2\\CarouselPageCode.xam" +
         "l")]
     public partial class CarouselPageCode : global::Xamarin.Forms.CarouselPage {
         
